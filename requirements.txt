@@ -1,0 +1,10 @@
+jupyterlab
+notebook
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+lightgbm
+openpyxl
+requests
